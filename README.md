@@ -24,4 +24,4 @@
 # Points to Remember
 1. Committed changes will remain in one branch and the other branches won't have the changes but all the changes will show in git Desktop.
 2. Changes in one branch won't show up in the other branches unless we merge it with that particular branch.
-3. While editing a file if we change the branch without committing the changes to the previous branch the changes will show up in later branch and if there we commit the changes that will remain in the later branch. So its recommended to commit the changes made in one branch before checking out in other branch.
+3. While editing a file if we change the branch without committing the changes to the previous branch the changes will show up in later branch and if there we commit the changes that will be updated in the later branch, not in the previous branch. So its recommended to commit the changes made in one branch before checking out in other branch.
