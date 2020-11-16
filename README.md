@@ -21,6 +21,7 @@
 2. git checkout branch1 [to checkout to branch1 from main branch]
 3. git merge origin/branch2 [to merge the contents of branch2 with branch1]
 
-# Points
-1. Committed changes will remain in one branch and the other branches won't have the changes but will show in git Desktop.
-2. 
+# Points to Remember
+1. Committed changes will remain in one branch and the other branches won't have the changes but all the changes will show in git Desktop.
+2. All the committed changes in main branch will be automatically updated in other branches but changes in other branches won't show up in the main branch unless we merge it.
+3. While editing a file if we change the branch without committing the changes to the previous branch the changes will show up in later branch and if there we commit the changes that will remain in the later branch.
