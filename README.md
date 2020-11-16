@@ -19,4 +19,8 @@
 # Merging
 1. git merge <branch_name> [merges the branch <branch_name> with the main branch]
 2. git checkout branch1 [to checkout to branch1 from main branch]
-git merge branch2 [to merge the contents of branch2 with branch1]
+3. git merge origin/branch2 [to merge the contents of branch2 with branch1]
+
+# Points
+1. Committed changes will remain in one branch and the other branches won't have the changes but will show in git Desktop.
+2. 
