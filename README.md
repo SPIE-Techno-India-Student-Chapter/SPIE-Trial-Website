@@ -19,4 +19,4 @@
 # Merging
 1. git merge <branch_name> [merges the branch <branch_name> with the main branch]
 2. git checkout branch1 [to checkout to branch1 from main branch]
-   git merge branch2 [to merge the contents of branch2 with branch1]
+git merge branch2 [to merge the contents of branch2 with branch1]
